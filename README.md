@@ -13,7 +13,7 @@ wget https://raw.githubusercontent.com/ea5gvk/ysfxlxvk4tux/master/inicio.sh
 
 sudo chmod 775 inicio.sh
 
-sudo .inicio.sh
+sudo ./inicio.sh
 
 
 CON ESTO YA TENDRIAMOS TODO HECHO Y SE ACTUALIZARAN LOS LISTADOS DEL XLX PARA FUSION TODOS LOS DIAS.
