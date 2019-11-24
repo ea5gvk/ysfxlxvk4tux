@@ -1,0 +1,4 @@
+#!/bin/bash
+/usr/local/sbin/pistar-daily.cron &&
+/bin/mount -o remount,rw / ; /bin/mount -o remount,rw /boot
+/usr/local/sbin/ysfxlx.sh
