@@ -8,3 +8,4 @@ cp pistar-daily /etc/cron.daily/pistar-daily
 chmod 755 /etc/cron.daily/pistar-daily
 cd ..
 sudo rm -rf ysfxlxvk4tux
+sudo rm inicio.sh
