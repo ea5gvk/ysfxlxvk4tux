@@ -9,4 +9,4 @@ cd ..
 sudo rm -rf ysfxlxvk4tux
 cd /usr/local/sbin/
 sudo ./ysfxlx.sh
-sudo rm inicio.sh
+sudo rm /home/pi-star/inicio.sh
