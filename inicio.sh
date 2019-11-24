@@ -1,6 +1,4 @@
 #!/bin/bash -x
-rpi-rw
-sudo -s
 git clone https://github.com/ea5gvk/ysfxlxvk4tux.git
 cd ysfxlxvk4tux
 cp ysfxlx.sh /usr/local/sbin/ysfxlx.sh
